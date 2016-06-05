@@ -14,6 +14,7 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
+import com.google.android.exoplayer.demo.Model.Channel;
 import com.google.android.exoplayer.demo.Model.Country;
 import com.google.android.exoplayer.demo.R;
 import com.google.android.exoplayer.demo.materialdesignone.MainActivity;
@@ -90,8 +91,8 @@ public class listRecyclerAdapter extends RecyclerView.Adapter<listRecyclerAdapte
                                     try {
                                         Storage.getInstance().setCurrentCountry(ct.getCountyName());
                                         ChannelParseByCountry channelParseByCountry = new ChannelParseByCountry(context, ct.getCountyName());
-                                        data = channelParseByCountry.getData(response, data);
-                                        MainActivity.populateNewData(data);
+                                        List<Channel> channels = channelParseByCountry.getData(response);
+                                        //MainActivity.populateNewData(channels);
 
                                     } catch (Exception e) {
                                         e.printStackTrace();

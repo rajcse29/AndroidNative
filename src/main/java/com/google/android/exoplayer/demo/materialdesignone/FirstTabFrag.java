@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 
+import com.google.android.exoplayer.demo.Model.Channel;
 import com.google.android.exoplayer.demo.R;
 import com.google.android.exoplayer.demo.adapter.RecyclerViewAdapter;
 
@@ -27,23 +28,21 @@ public class FirstTabFrag extends Fragment {
     public View firstTabLayout;
     public RecyclerView firstTabRecyclerView;
     private static FirstTabFrag firstTabFrag;
-    //private List<Channel> data = new ArrayList<Channel>();
     private TextView text;
     private GridLayoutManager lLayout;
     private RecyclerViewAdapter rcAdapter;
-
-    public List<categoryDetail> data = new ArrayList<>();
+    public List<Channel> data = new ArrayList<>();
 
     public static FirstTabFrag getInstance(){
             firstTabFrag = new FirstTabFrag();
         return firstTabFrag;
     }
 
-    public List<categoryDetail> getData() {
+    public List<Channel> getData() {
         return data;
     }
 
-    public void setData(List<categoryDetail> data) {
+    public void setData(List<Channel> data) {
         this.data = data;
     }
 
@@ -67,7 +66,6 @@ public class FirstTabFrag extends Fragment {
 
 
         rcAdapter = new RecyclerViewAdapter(this.getActivity(), data);
-      //  Toast.makeText(this.getActivity(), "first tab frag init" + data.size(), Toast.LENGTH_SHORT).show();
         rView.setAdapter(rcAdapter);
         return firstTabLayout;
     }

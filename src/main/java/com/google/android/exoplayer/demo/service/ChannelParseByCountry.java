@@ -41,11 +41,12 @@ public class ChannelParseByCountry {
     private String countryName;
     private Boolean success;
     private JSONObject jsonRootObject;
-    private List<Channel> channels;
     private Context context;
-    private String urlLogo;
-    private ImageView imageView = null;
     private String root;
+    private int counter = 0;
+    private List<String> logoList = new ArrayList<>();
+    private List<String> channelNameList = new ArrayList<>();
+    private List<Channel> channels;
 
     public ChannelParseByCountry(Context context, String countryName) {
         this.context = context;
@@ -54,9 +55,9 @@ public class ChannelParseByCountry {
         createLogoDirectory();
     }
 
-    public List<categoryDetail> getData(String response, List<categoryDetail> data) {
+    public List<Channel> getData(String response) {
         try {
-            data.clear();
+            channels = new ArrayList<>();
             jsonRootObject = new JSONObject(response);
             success = (boolean) jsonRootObject.get("success");
             if (success) {
@@ -67,18 +68,10 @@ public class ChannelParseByCountry {
                     String channelName = (String) obj.get("channelName");
                     String link = (String) obj.get("link");
                     String logo = (String) obj.get("logo");
+                    logoList.add(logo);
+                    channelNameList.add(channelName);
 
-                    saveChannelLogo(logo);
-
-                    Channel channel = new Channel();
-                    channel.setChannelId(channelId);
-                    channel.setChannelName(channelName);
-                    channels.add(channel);
-
-                    categoryDetail current = new categoryDetail();
-                    current.categoryName = channelName;
-                    current.icon = R.drawable.ic_play_arrow;
-                    data.add(current);
+                    new downloadLogo().execute("http://www.livestreamer.com/images/" + logo);
                 }
                 Map<String, List<Channel>> channelsByCountry = new HashMap<>();
                 channelsByCountry.put(countryName, channels);
@@ -87,7 +80,7 @@ public class ChannelParseByCountry {
         } catch (Exception ex) {
             ex.printStackTrace();
         }
-        return data;
+        return channels;
     }
 
     private void createLogoDirectory() {
@@ -97,64 +90,60 @@ public class ChannelParseByCountry {
             logoDirectory.mkdirs();
         }
     }
-
-    private void saveChannelLogo(String logo) {
-        urlLogo = "http://www.livestreamer.com/images/" + logo;
-        try {
-            Toast.makeText(context, "urlLogo:" + urlLogo, Toast.LENGTH_LONG).show();
-            new downloadLogo().execute(urlLogo);
-
 //            Bitmap bmp = BitmapFactory.decodeStream(url.openConnection().getInputStream());
-//            int bmpByte = myBitmap.getByteCount();
-//            String st = Integer.toString(bmpByte);
-//            Toast.makeText(context, "byteCount:" + st, Toast.LENGTH_LONG).show();
-//
-//            Log.d("byte count.............", st);
-//
-//            OutputStream fOut = null;
-//            String logoPath = root + "/channel_logo/" + logo +".png";
-//            Toast.makeText(context, "logoPath:" +logoPath, Toast.LENGTH_LONG).show();
-//            File file = new File(logoPath);
-//            file.createNewFile();
-//            fOut = new FileOutputStream(file);
-//
-//            // 100 means no compression, the lower you go, the stronger the compression
-//            bmp.compress(Bitmap.CompressFormat.PNG, 100, fOut);
-//            fOut.flush();
-//            fOut.close();
-
             //MediaStore.Images.Media.insertImage(context.getContentResolver(), file.getAbsolutePath(), file.getName(), file.getName());
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-
-    }
 
     private class downloadLogo extends AsyncTask<String, Void, Bitmap> {
 
-        protected Bitmap doInBackground(String...urlLogo) {
-            Bitmap myBitmap = null;
+        protected Bitmap doInBackground(String...logoUrl) {
+            Bitmap bitMap = null;
             try {
-                URL url = new URL(urlLogo[0]);
+                URL url = new URL(logoUrl[0]);
                 HttpURLConnection connection = (HttpURLConnection) url.openConnection();
                 connection.setDoInput(true);
                 connection.connect();
                 InputStream input = connection.getInputStream();
-                myBitmap = BitmapFactory.decodeStream(input);
+                bitMap = BitmapFactory.decodeStream(input);
 
             } catch (Exception ex){
                 ex.printStackTrace();
             }
-            return  myBitmap;
-
+            return  bitMap;
         }
 
-        protected void onPostExecute(Bitmap result) {
-            int bmpByte = result.getByteCount();
-            String st = Integer.toString(bmpByte);
-            Toast.makeText(context, "byteCount:" + st, Toast.LENGTH_LONG).show();
-            Log.d("byte count.............", st);
+        protected void onPostExecute(Bitmap bitMap) {
+            try {
+                OutputStream fOut = null;
+                String logoName = logoList.get(counter);
+                String logoPath = root + "/channel_logo/" + logoName;
+
+                //Log.d("logoName.......", logoName);
+                //Toast.makeText(context, "logoPath:" + logoPath, Toast.LENGTH_SHORT).show();
+                File file = new File(logoPath);
+                file.createNewFile();
+                fOut = new FileOutputStream(file);
+
+
+
+                bitMap.compress(Bitmap.CompressFormat.PNG, 100, fOut);
+                fOut.flush();
+                fOut.close();
+
+                Bitmap scaledBitmap = Bitmap.createScaledBitmap(bitMap, 100, 100, true);
+
+
+                Channel channel = new Channel();
+                channel.setChannelName(channelNameList.get(counter));
+                channel.setChannelBitMap(scaledBitmap);
+                channels.add(channel);
+                counter++;
+
+                MainActivity.populateNewData(channels);
+
+            } catch (Exception ex) {
+                ex.printStackTrace();
+
+            }
         }
     }
 }

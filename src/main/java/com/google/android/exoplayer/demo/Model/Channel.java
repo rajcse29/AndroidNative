@@ -1,12 +1,16 @@
 package com.google.android.exoplayer.demo.Model;
 
+import android.graphics.Bitmap;
+import android.media.Image;
+import android.widget.ImageView;
+
 /**
  * Created by raj on 5/18/16.
  */
 public class Channel {
     public int channelId;
     public String channelName;
-    public int channelIcon;
+    public Bitmap channelBitMap;
 
     public int getChannelId() {
         return channelId;
@@ -24,11 +28,11 @@ public class Channel {
         this.channelName = channelName;
     }
 
-    public int getChannelIcon() {
-        return channelIcon;
+    public Bitmap getChannelBitMap() {
+        return channelBitMap;
     }
 
-    public void setChannelIcon(int channelIcon) {
-        this.channelIcon = channelIcon;
+    public void setChannelBitMap(Bitmap channelBitMap) {
+        this.channelBitMap = channelBitMap;
     }
 }

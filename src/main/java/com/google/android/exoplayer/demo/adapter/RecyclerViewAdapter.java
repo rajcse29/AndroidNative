@@ -28,10 +28,10 @@ import java.util.List;
  */
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.RecyclerViewHolders> {
 
-    private List<categoryDetail> channelList;
+    private List<Channel> channelList;
     private Context context;
 
-    public RecyclerViewAdapter(Context context, List<categoryDetail> channelList) {
+    public RecyclerViewAdapter(Context context, List<Channel> channelList) {
         this.channelList = channelList;
         this.context = context;
     }
@@ -46,8 +46,8 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
     @Override
     public void onBindViewHolder(RecyclerViewHolders holder, int position) {
-        holder.channelName.setText(channelList.get(position).getCategoryName());
-        holder.channelIcon.setImageResource(channelList.get(position).getIcon());
+        holder.channelName.setText(channelList.get(position).getChannelName());
+        holder.channelIcon.setImageBitmap(channelList.get(position).getChannelBitMap());
 
     }
 

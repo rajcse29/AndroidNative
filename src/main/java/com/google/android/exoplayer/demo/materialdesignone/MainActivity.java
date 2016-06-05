@@ -9,10 +9,12 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+import com.google.android.exoplayer.demo.Model.Channel;
 import com.google.android.exoplayer.demo.PlayerActivity;
 import com.google.android.exoplayer.demo.R;
 
@@ -46,11 +48,13 @@ public class MainActivity extends ActionBarActivity {
 
     }
 
-    public static void populateNewData(List<categoryDetail> data){
+    public static void populateNewData(List<Channel> channels){
+        Log.d("channels.size()", "==========================" +channels.size());
         firstTabFrag.getData().clear();
-        for (categoryDetail ct : data) {
-            firstTabFrag.getData().add(ct);
+        for (Channel ch : channels) {
+            firstTabFrag.getData().add(ch);
         }
+        Log.d("data change notify", "************");
         firstTabFrag.getRcAdapter().notifyDataSetChanged();
     }
 
