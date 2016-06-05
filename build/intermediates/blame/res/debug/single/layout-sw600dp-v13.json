@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

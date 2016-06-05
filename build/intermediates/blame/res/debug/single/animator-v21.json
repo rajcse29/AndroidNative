@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/animator-v21/lb_playback_bg_fade_out.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/animator-v21/lb_playback_description_fade_out.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/animator-v21/lb_playback_bg_fade_out.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/animator-v21/lb_playback_bg_fade_in.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/animator-v21/lb_playback_description_fade_out.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/animator-v21/lb_playback_description_fade_out.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/animator-v21/lb_playback_bg_fade_in.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/animator-v21/lb_playback_bg_fade_in.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/animator-v21/lb_playback_description_fade_out.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/animator-v21/lb_playback_bg_fade_out.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/animator-v21/lb_playback_bg_fade_in.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/animator-v21/lb_playback_bg_fade_out.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/animator-v21/lb_playback_bg_fade_out.xml"
+    }
+]
