@@ -32,6 +32,7 @@ public class StreamingPlayer extends Activity implements
     private SurfaceHolder holder;
     public static String path;
     public static ChannelLink channelLink;
+    private int replayCounter = 0;
 
     private boolean mIsVideoSizeKnown = false;
     private boolean mIsVideoReadyToBePlayed = false;
@@ -85,7 +86,6 @@ public class StreamingPlayer extends Activity implements
     private void playVideo() {
         doCleanUp();
         try {
-
             //path = "http://wbde01.livestreamer.com:1935/wbde01/bdlivestreamerRTV1457781239769_180/playlist.m3u8";
 
             if (path == "") {
@@ -106,7 +106,23 @@ public class StreamingPlayer extends Activity implements
             mMediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
 
         } catch (Exception e) {
-            Log.e(TAG, "error: " + e.getMessage(), e);
+            replay();
+            Log.e(TAG, "error: can not play video: " + e.getMessage(), e);
+        }
+    }
+
+    private void replay() {
+        try {
+            replayCounter++;
+            if(replayCounter <= 3){
+                Thread.sleep(1000);
+                playVideo();
+            } else {
+                replayCounter = 0;
+                onDestroy();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 
