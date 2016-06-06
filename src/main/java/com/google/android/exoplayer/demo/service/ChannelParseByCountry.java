@@ -3,6 +3,9 @@ package com.google.android.exoplayer.demo.service;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
+import android.graphics.Matrix;
+import android.graphics.Paint;
 import android.os.AsyncTask;
 import android.os.Environment;
 import android.util.Log;
@@ -22,6 +25,7 @@ import com.google.android.exoplayer.demo.materialdesignone.categoryDetail;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;
@@ -47,6 +51,7 @@ public class ChannelParseByCountry {
     private List<String> logoList = new ArrayList<>();
     private List<String> channelNameList = new ArrayList<>();
     private List<Channel> channels;
+    private List<Channel> channelsToStore = new ArrayList<>();
 
     public ChannelParseByCountry(Context context, String countryName) {
         this.context = context;
@@ -71,10 +76,16 @@ public class ChannelParseByCountry {
                     logoList.add(logo);
                     channelNameList.add(channelName);
 
+                    Channel ch = new Channel();
+                    ch.setChannelId(channelId);
+                    ch.setChannelName(channelName);
+                    channelsToStore.add(ch);
+
                     new downloadLogo().execute("http://www.livestreamer.com/images/" + logo);
+
                 }
                 Map<String, List<Channel>> channelsByCountry = new HashMap<>();
-                channelsByCountry.put(countryName, channels);
+                channelsByCountry.put(countryName, channelsToStore);
                 Storage.getInstance().setChannelsByCountry(channelsByCountry);
             }
         } catch (Exception ex) {
@@ -129,7 +140,13 @@ public class ChannelParseByCountry {
                 fOut.flush();
                 fOut.close();
 
-                Bitmap scaledBitmap = Bitmap.createScaledBitmap(bitMap, 100, 100, true);
+                Bitmap scaledBitmap = Bitmap.createScaledBitmap(bitMap, 250, 150, false);
+
+//                Bitmap output = Bitmap.createBitmap(50, 50, Bitmap.Config.ARGB_8888);
+//                Canvas canvas = new Canvas(output);
+//                Matrix m = new Matrix();
+//                m.setScale((float) 50 / bitMap.getWidth(), (float) 50 / bitMap.getHeight());
+//                canvas.drawBitmap(bitMap, m, new Paint());
 
 
                 Channel channel = new Channel();

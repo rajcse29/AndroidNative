@@ -58,7 +58,7 @@ public class FirstTabFrag extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         firstTabLayout = inflater.inflate(R.layout.firsttabcontent,container,false);
-        lLayout = new GridLayoutManager(this.getActivity(), 7);
+        lLayout = new GridLayoutManager(this.getActivity(), 8);
 
         RecyclerView rView = (RecyclerView) firstTabLayout.findViewById(R.id.firstTabContentList);
         rView.setHasFixedSize(true);
