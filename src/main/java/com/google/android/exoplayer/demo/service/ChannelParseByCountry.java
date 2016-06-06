@@ -128,12 +128,9 @@ public class ChannelParseByCountry {
                 String logoName = logoList.get(counter);
                 String logoPath = root + "/channel_logo/" + logoName;
 
-                //Log.d("logoName.......", logoName);
-                //Toast.makeText(context, "logoPath:" + logoPath, Toast.LENGTH_SHORT).show();
                 File file = new File(logoPath);
                 file.createNewFile();
                 fOut = new FileOutputStream(file);
-
 
 
                 bitMap.compress(Bitmap.CompressFormat.PNG, 100, fOut);
@@ -147,7 +144,6 @@ public class ChannelParseByCountry {
 //                Matrix m = new Matrix();
 //                m.setScale((float) 50 / bitMap.getWidth(), (float) 50 / bitMap.getHeight());
 //                canvas.drawBitmap(bitMap, m, new Paint());
-
 
                 Channel channel = new Channel();
                 channel.setChannelName(channelNameList.get(counter));
