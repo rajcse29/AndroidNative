@@ -3,8 +3,12 @@ package com.google.android.exoplayer.demo.materialdesignone;
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Bundle;
+import android.preference.PreferenceActivity;
+import android.preference.PreferenceFragment;
+import android.preference.PreferenceManager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
@@ -16,6 +20,7 @@ import android.widget.Toast;
 
 import com.google.android.exoplayer.demo.Model.Channel;
 import com.google.android.exoplayer.demo.PlayerActivity;
+import com.google.android.exoplayer.demo.PrefActivity;
 import com.google.android.exoplayer.demo.R;
 
 import java.util.List;
@@ -49,7 +54,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public static void populateNewData(List<Channel> channels){
-        Log.d("channels.size()", "==========================" +channels.size());
+        Log.d("channels.size()", "==========================" + channels.size());
         firstTabFrag.getData().clear();
         for (Channel ch : channels) {
             firstTabFrag.getData().add(ch);
@@ -61,7 +66,7 @@ public class MainActivity extends ActionBarActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.main,menu);
+        getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
 
@@ -70,7 +75,17 @@ public class MainActivity extends ActionBarActivity {
 
         int id = item.getItemId();
         if(id ==R.id.action_settings){
-            Toast.makeText(getApplicationContext(), "Settings", Toast.LENGTH_SHORT).show();
+            Intent intent = new Intent(this, PrefActivity.class);
+            startActivity(intent);
+        }
+
+        if (id==R.id.action_user){
+
+        }
+
+        if (id==R.id.action_bitrate){
+//            Intent intent = new Intent(this, PrefActivity.class);
+//            startActivity(intent);
         }
 
         if (id==R.id.navigate){
