@@ -2,5 +2,9 @@
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/xml/preference.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/src/main/res/xml/preference.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/xml/preference.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/src/main/res/xml/preference.xml"
     }
 ]

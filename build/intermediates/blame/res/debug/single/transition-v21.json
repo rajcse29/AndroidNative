@@ -1,35 +1,59 @@
 [
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_title_in.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_title_in.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_return_transition.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_shared_element_return_transition.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_return_transition.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_return_transition.xml"
-    },
-    {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_in.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_in.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_return_transition.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_shared_element_return_transition.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_out.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_out.xml"
-    },
-    {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_out.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_out.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_enter_transition.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_enter_transition.xml"
     },
     {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_out.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_out.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter_bottom.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_guidedstep_activity_enter_bottom.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_return_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_shared_element_return_transition.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_browse_entrance_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_browse_entrance_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_details_return_transition.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_details_return_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_enter_transition.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_shared_element_enter_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_return_transition.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_return_transition.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_enter_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_enter_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_out.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_return_transition.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_shared_element_return_transition.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_in.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_in.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_return_transition.xml",
@@ -40,10 +64,6 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_enter_transition.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_details_return_transition.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_details_return_transition.xml"
-    },
-    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter_bottom.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_guidedstep_activity_enter_bottom.xml"
     },
@@ -52,28 +72,32 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_guidedstep_activity_enter.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_guidedstep_activity_enter.xml"
-    },
-    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_details_enter_transition.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_details_enter_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_guidedstep_activity_enter.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_out.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_out.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_out.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_browse_headers_out.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_enter_transition.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_enter_transition.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter_bottom.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_guidedstep_activity_enter_bottom.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_entrance_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_vertical_grid_entrance_transition.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_enter_transition.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_shared_element_enter_transition.xml"
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter_bottom.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_guidedstep_activity_enter_bottom.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_return_transition.xml",
@@ -84,12 +108,12 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_return_transition.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_entrance_transition.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_entrance_transition.xml"
-    },
-    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_entrance_transition.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_entrance_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_entrance_transition.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_entrance_transition.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_in.xml",
@@ -108,6 +132,14 @@
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_return_transition.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_title_out.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_title_out.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_return_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_vertical_grid_return_transition.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_return_transition.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_shared_element_return_transition.xml"
     },
@@ -120,16 +152,16 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_enter_transition.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_title_out.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_title_out.xml"
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_return_transition.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_shared_element_return_transition.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_title_out.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_title_out.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_return_transition.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_shared_element_return_transition.xml"
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_title_out.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_title_out.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_return_transition.xml",
@@ -140,56 +172,40 @@
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_entrance_transition.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_in.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_browse_headers_in.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_details_enter_transition.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_details_enter_transition.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_details_enter_transition.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_details_enter_transition.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_entrance_transition.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_entrance_transition.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_enter_transition.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_shared_element_enter_transition.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_guidedstep_activity_enter.xml"
+    },
+    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_return_transition.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_return_transition.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_enter_transition.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_enter_transition.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_out.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_out.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_enter_transition.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_enter_transition.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_title_out.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_title_out.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_enter_transition.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_enter_transition.xml"
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_enter_transition.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_enter_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_out.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_out.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_return_transition.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_return_transition.xml"
-    },
-    {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_details_return_transition.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_details_return_transition.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_enter_transition.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_enter_transition.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_details_return_transition.xml",
@@ -200,10 +216,6 @@
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_title_in.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_details_enter_transition.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_details_enter_transition.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_title_in.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_title_in.xml"
     },
@@ -212,12 +224,60 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_enter_transition.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_in.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_in.xml"
-    },
-    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_title_in.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_title_in.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_details_enter_transition.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_details_enter_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_entrance_transition.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_entrance_transition.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter_bottom.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_guidedstep_activity_enter_bottom.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_browse_enter_transition.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_enter_transition.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_enter_transition.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_enter_transition.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_details_return_transition.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_details_return_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_enter_transition.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_enter_transition.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_enter_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_shared_element_enter_transition.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_return_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_return_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_details_enter_transition.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_details_enter_transition.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_browse_return_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_browse_return_transition.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_details_enter_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_details_enter_transition.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_in.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_browse_headers_in.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_enter_transition.xml",
@@ -236,12 +296,12 @@
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_return_transition.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_guidedstep_activity_enter.xml"
-    },
-    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_title_out.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_title_out.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_guidedstep_activity_enter.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/transition-v21/lb_browse_headers_in.xml",
@@ -280,11 +340,23 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_vertical_grid_entrance_transition.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_details_return_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_details_return_transition.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/transition-v21/lb_shared_element_enter_transition.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_shared_element_enter_transition.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_browse_enter_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_browse_enter_transition.xml"
+    },
+    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/transition-v21/lb_guidedstep_activity_enter.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/transition-v21/lb_guidedstep_activity_enter.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/transition-v21/lb_vertical_grid_enter_transition.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/transition-v21/lb_vertical_grid_enter_transition.xml"
     }
 ]

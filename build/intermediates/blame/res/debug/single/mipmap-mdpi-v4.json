@@ -14,5 +14,9 @@
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
         "source": "/home/raj/AndroidStudioProjects/Native/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]
