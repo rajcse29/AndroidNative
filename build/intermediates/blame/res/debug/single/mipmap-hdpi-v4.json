@@ -4,12 +4,16 @@
         "source": "/home/raj/Desktop/Native/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/raj/AndroidStudioProjects/demo/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
         "source": "/home/raj/Desktop/demo/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
-        "source": "/home/raj/AndroidStudioProjects/demo/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",

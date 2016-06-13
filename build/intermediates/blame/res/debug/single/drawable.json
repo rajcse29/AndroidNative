@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/lb_background.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_background.xml"
     },
@@ -12,16 +8,12 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/lb_background.xml",
@@ -36,60 +28,40 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/lb_onboarding_start_button_background.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_onboarding_start_button_background.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/lb_background.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_background.xml"
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/lb_search_orb.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_search_orb.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
@@ -100,8 +72,116 @@
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_btn_radio_off_mtrl.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/lb_speech_orb.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/drawable/lb_speech_orb.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ic_menu_selectall_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/lb_background.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_background.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
@@ -112,52 +192,32 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ic_menu_paste_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_paste_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_light.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
@@ -168,12 +228,20 @@
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_seekbar_track_material.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/lb_onboarding_start_button_background.xml",
@@ -184,12 +252,12 @@
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
@@ -198,6 +266,10 @@
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/drawable/design_snackbar_background.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
@@ -212,20 +284,20 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_headers_right_fading.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/lb_speech_orb.xml",
@@ -244,44 +316,76 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_btn_radio_on_mtrl.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_btn_checkbox_checked_mtrl.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/lb_search_orb.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_search_orb.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/lb_search_orb.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_search_orb.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/lb_headers_right_fading.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_headers_right_fading.xml"
-    },
-    {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/lb_playback_progress_bar.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_playback_progress_bar.xml"
-    },
-    {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/lb_headers_right_fading.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_headers_right_fading.xml"
     },
     {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/lb_playback_progress_bar.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/lb_search_orb.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/drawable/lb_search_orb.xml"
+    },
+    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_fab_background.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ic_menu_cut_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_cut_material.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/lb_headers_right_fading.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/drawable/lb_headers_right_fading.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
@@ -290,6 +394,14 @@
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
@@ -304,6 +416,10 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ic_menu_share_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_share_material.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
     },
@@ -312,16 +428,20 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/lb_onboarding_start_button_background.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ic_menu_copy_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_copy_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
@@ -332,28 +452,44 @@
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/lb_onboarding_start_button_background.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/drawable/lb_onboarding_start_button_background.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
@@ -368,20 +504,36 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/lb_search_orb.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_search_orb.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/lb_background.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/drawable/lb_background.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
@@ -392,12 +544,12 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/lb_onboarding_start_button_background.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
@@ -416,6 +568,10 @@
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/drawable/design_fab_background.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
     },
@@ -432,6 +588,14 @@
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/lb_playback_progress_bar.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_playback_progress_bar.xml"
     },
@@ -440,16 +604,20 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
@@ -462,6 +630,10 @@
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
@@ -480,6 +652,10 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/lb_playback_progress_bar.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_playback_progress_bar.xml"
     },
@@ -488,24 +664,32 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable/abc_ic_clear_material.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_fab_background.xml"
     },
     {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/lb_speech_orb.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_speech_orb.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/lb_speech_orb.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable/lb_speech_orb.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable/lb_playback_progress_bar.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/drawable/lb_playback_progress_bar.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",

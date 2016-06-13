@@ -12,12 +12,20 @@
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_primary.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_secondary.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/drawable-v21/lb_control_button_secondary.xml"
+    },
+    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable-v21/lb_action_bg.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_action_bg.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable-v21/lb_action_bg.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_action_bg.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable-v21/lb_action_bg.xml",
@@ -28,36 +36,48 @@
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_primary.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_secondary.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_secondary.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable-v21/lb_action_bg.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_action_bg.xml"
-    },
-    {
-        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_secondary.xml",
-        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_secondary.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable-v21/lb_card_foreground.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_card_foreground.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_secondary.xml",
+        "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_primary.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/drawable-v21/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_secondary.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable-v21/lb_card_foreground.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/drawable-v21/lb_card_foreground.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/drawable-v21/lb_action_bg.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_action_bg.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_primary.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
@@ -88,12 +108,16 @@
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_secondary.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_secondary.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable-v21/lb_action_bg.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.0/res/drawable-v21/lb_action_bg.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/drawable-v21/lb_card_foreground.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_card_foreground.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_secondary.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_secondary.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
@@ -104,11 +128,15 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_card_foreground.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_primary.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_primary.xml"
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_primary.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/res/drawable-v21/lb_control_button_primary.xml"
     }
 ]

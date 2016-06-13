@@ -12,6 +12,10 @@
         "source": "/home/raj/Desktop/demo/src/main/res/menu/main.xml"
     },
     {
+        "merged": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/shams/Desktop/Desktop/AndroidAppDevelopment/AndroidNative/src/main/res/menu/main.xml"
+    },
+    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/src/main/res/menu/main.xml"
     }
