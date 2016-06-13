@@ -5,14 +5,13 @@
 
     <ListPreference
         android:title="User settings"
-        android:summary="Change user settings"
-        android:defaultValue="1" />
+        android:summary="Change user settings"/>
 
     <ListPreference
+        android:key="bitRatePref"
         android:title="Change bit rate"
-        android:summary="Select an option to change the bit rate"
         android:defaultValue="1"
-        android:entries="@array/listArray"
-        android:entryValues="@array/listValues" />
+        android:entries="@array/bitRateArray"
+        android:entryValues="@array/bitRateValues" />
 
 </PreferenceScreen>

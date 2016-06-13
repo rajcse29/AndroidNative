@@ -2,5 +2,9 @@
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/release/menu/main.xml",
         "source": "/home/raj/Desktop/Native/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/src/main/res/menu/main.xml"
     }
 ]

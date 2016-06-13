@@ -79,18 +79,9 @@ public class MainActivity extends ActionBarActivity {
             startActivity(intent);
         }
 
-        if (id==R.id.action_user){
-
-        }
-
-        if (id==R.id.action_bitrate){
-//            Intent intent = new Intent(this, PrefActivity.class);
-//            startActivity(intent);
-        }
-
-        if (id==R.id.navigate){
-            Toast.makeText(getApplicationContext(), "Navigate", Toast.LENGTH_SHORT).show();
-        }
+//        if (id==R.id.navigate){
+//            Toast.makeText(getApplicationContext(), "Navigate", Toast.LENGTH_SHORT).show();
+//        }
         return super.onOptionsItemSelected(item);
     }
 

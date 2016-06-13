@@ -13,6 +13,7 @@ public class Storage {
     private static Storage storage;
     private static String currentCountry;
     private static Map<String, List<Channel>> channelsByCountry = new HashMap<>();
+    private String currentBitRate;
 
     public static Storage getInstance(){
         if (storage == null){
@@ -43,5 +44,13 @@ public class Storage {
 
     public static void setChannelsByCountry(Map<String, List<Channel>> channelsByCountry) {
         Storage.channelsByCountry = channelsByCountry;
+    }
+
+    public String getCurrentBitRate() {
+        return currentBitRate;
+    }
+
+    public void setCurrentBitRate(String currentBitRate) {
+        this.currentBitRate = currentBitRate;
     }
 }

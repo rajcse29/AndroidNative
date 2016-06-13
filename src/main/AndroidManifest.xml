@@ -56,7 +56,6 @@
             android:theme="@style/PlayerTheme">
             <intent-filter>
                 <action android:name="com.google.android.exoplayer.demo.action.VIEW" />
-
                 <category android:name="android.intent.category.DEFAULT" />
 
                 <data android:scheme="http" />
@@ -75,7 +74,6 @@
             android:theme="@style/PlayerTheme">
             <intent-filter>
                 <action android:name="com.google.android.exoplayer.demo.action.VIEW" />
-
                 <category android:name="android.intent.category.DEFAULT" />
 
                 <data android:scheme="http" />
@@ -89,7 +87,7 @@
 
         <activity
             android:name=".PrefActivity"
-            android:label="preference activity">
+            android:label="Preference">
         </activity>
 
 

@@ -503,12 +503,12 @@ public final class R {
 		public static final int action_fragment_root = 0x7f1200d1;
 		public static final int activated = 0x7f12004f;
 		public static final int always = 0x7f120044;
-		public static final int background_color = 0x7f120128;
+		public static final int background_color = 0x7f120127;
 		public static final int background_container = 0x7f1200e1;
-		public static final int background_dim = 0x7f12012b;
-		public static final int background_imagein = 0x7f12012a;
-		public static final int background_imageout = 0x7f120129;
-		public static final int background_theme = 0x7f120127;
+		public static final int background_dim = 0x7f12012a;
+		public static final int background_imagein = 0x7f120129;
+		public static final int background_imageout = 0x7f120128;
+		public static final int background_theme = 0x7f120126;
 		public static final int bottom = 0x7f12002e;
 		public static final int bottom_spacer = 0x7f1200f8;
 		public static final int browse_container_dock = 0x7f1200a1;

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <string-array name="listArray">
+    <string-array name="bitRateArray">
         <item>Auto</item>
         <item>720p</item>
         <item>480p</item>
         <item>360p</item>
         <item>180p</item>
     </string-array>
-    <string-array name="listValues">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
+    <string-array name="bitRateValues">
+        <item>Auto</item>
+        <item>720p</item>
+        <item>480p</item>
+        <item>360p</item>
+        <item>180p</item>
     </string-array>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>

@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.preference.ListPreference;
 import android.util.Log;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
@@ -16,6 +17,7 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 import com.google.android.exoplayer.demo.Model.ChannelLink;
+import com.google.android.exoplayer.demo.service.Storage;
 
 /**
  * Created by raj on 5/31/16.
@@ -46,48 +48,47 @@ public class StreamingPlayer extends Activity implements
         holder.addCallback(this);
         holder.setType(SurfaceHolder.SURFACE_TYPE_PUSH_BUFFERS);
 
-        Spinner bitRateTypeSpinner = (Spinner) findViewById(R.id.bitRateType);
-        String[] items = new String[]{"180", "360", "480", "720"};
-        ArrayAdapter<String> bitRateTypeAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, items);
-        bitRateTypeSpinner.setAdapter(bitRateTypeAdapter);
-        bitRateTypeSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-            @Override
-            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                String selectedItem = parent.getItemAtPosition(position).toString();
-                if (selectedItem.equals("180")) {
-                    onPause();
-                    path = channelLink.getSboxLink180();
-                    playVideo();
-
-                } else if (selectedItem.equals("360")) {
-                    onPause();
-                    path = channelLink.getSboxLink360();
-                    playVideo();
-                    // SetStringRequest("http://www.livestreamer.com/api/allCategory");
-                } else if (selectedItem.equals("480")) {
-                    onPause();
-                    path = channelLink.getSboxLink480();
-                    playVideo();
-                } else if (selectedItem.equals("720")) {
-                    onPause();
-                    path = channelLink.getSboxLink720();
-                    playVideo();
-                }
-
-            }
-
-            @Override
-            public void onNothingSelected(AdapterView<?> parent) {
-
-            }
-        });
+//        Spinner bitRateTypeSpinner = (Spinner) findViewById(R.id.bitRateType);
+//        String[] items = new String[]{"180", "360", "480", "720"};
+//        ArrayAdapter<String> bitRateTypeAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, items);
+//        bitRateTypeSpinner.setAdapter(bitRateTypeAdapter);
+//        bitRateTypeSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+//            @Override
+//            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+//                String selectedItem = parent.getItemAtPosition(position).toString();
+//                if (selectedItem.equals("180")) {
+//                    onPause();
+//                    path = channelLink.getSboxLink180();
+//                    playVideo();
+//
+//                } else if (selectedItem.equals("360")) {
+//                    onPause();
+//                    path = channelLink.getSboxLink360();
+//                    playVideo();
+//                    // SetStringRequest("http://www.livestreamer.com/api/allCategory");
+//                } else if (selectedItem.equals("480")) {
+//                    onPause();
+//                    path = channelLink.getSboxLink480();
+//                    playVideo();
+//                } else if (selectedItem.equals("720")) {
+//                    onPause();
+//                    path = channelLink.getSboxLink720();
+//                    playVideo();
+//                }
+//
+//            }
+//
+//            @Override
+//            public void onNothingSelected(AdapterView<?> parent) {
+//
+//            }
+//        });
     }
 
     private void playVideo() {
         doCleanUp();
         try {
             //path = "http://wbde01.livestreamer.com:1935/wbde01/bdlivestreamerRTV1457781239769_180/playlist.m3u8";
-
             if (path == "") {
                 // Tell the user to provide a media file URL.
                 Toast.makeText(this, "Please edit MediaPlayerDemo_Video Activity," + " and set the path variable to your media file URL.", Toast.LENGTH_LONG).show();
@@ -106,25 +107,25 @@ public class StreamingPlayer extends Activity implements
             mMediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
 
         } catch (Exception e) {
-            replay();
+            //replay();
             Log.e(TAG, "error: can not play video: " + e.getMessage(), e);
         }
     }
 
-    private void replay() {
-        try {
-            replayCounter++;
-            if(replayCounter <= 3){
-                Thread.sleep(1000);
-                playVideo();
-            } else {
-                replayCounter = 0;
-                onDestroy();
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
+//    private void replay() {
+//        try {
+//            replayCounter++;
+//            if(replayCounter <= 3){
+//                Thread.sleep(1000);
+//                playVideo();
+//            } else {
+//                replayCounter = 0;
+//                onDestroy();
+//            }
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//    }
 
     public void onBufferingUpdate(MediaPlayer arg0, int percent) {
         Log.d(TAG, "onBufferingUpdate percent:" + percent);
@@ -169,9 +170,12 @@ public class StreamingPlayer extends Activity implements
 
     public void surfaceCreated(SurfaceHolder holder) {
         Log.d(TAG, "surfaceCreated called");
-        //playVideo();
+        selectLink();
+        playVideo();
 
     }
+
+
 
     @Override
     protected void onPause() {
@@ -205,6 +209,21 @@ public class StreamingPlayer extends Activity implements
         Log.v(TAG, "startVideoPlayback");
         holder.setFixedSize(mVideoWidth, mVideoHeight);
         mMediaPlayer.start();
+    }
+
+    private void selectLink() {
+        String bitRate = Storage.getInstance().getCurrentBitRate();
+        if(bitRate.equalsIgnoreCase("180p")){
+            path = channelLink.getSboxLink180();
+        } else if(bitRate.equalsIgnoreCase("360p")){
+            path = channelLink.getSboxLink360();
+        } else if(bitRate.equalsIgnoreCase("480p")){
+            path = channelLink.getSboxLink480();
+        } else if(bitRate.equalsIgnoreCase("720p")){
+            path = channelLink.getSboxLink720();
+        } else {
+            path = channelLink.getSboxLink720();
+        }
     }
 
 

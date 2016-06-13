@@ -86,7 +86,7 @@
         </activity>
         <activity
             android:name="com.google.android.exoplayer.demo.PrefActivity"
-            android:label="preference activity" >
+            android:label="Preference" >
         </activity>
     </application>
 
