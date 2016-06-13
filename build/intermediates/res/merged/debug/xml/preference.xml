@@ -10,7 +10,7 @@
     <ListPreference
         android:key="bitRatePref"
         android:title="Change bit rate"
-        android:defaultValue="1"
+        android:defaultValue="Auto"
         android:entries="@array/bitRateArray"
         android:entryValues="@array/bitRateValues" />
 

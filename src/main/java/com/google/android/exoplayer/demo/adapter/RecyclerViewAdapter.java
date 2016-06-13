@@ -72,7 +72,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         public void onClick(View view) {
             List<Channel> channels = Storage.getInstance().getChannelsByCountry().get(Storage.getInstance().getCurrentCountry());
             Channel channel = channels.get(getPosition());
-            Toast.makeText(view.getContext(), "channel.getChannelId() = " +channel.getChannelId(), Toast.LENGTH_SHORT).show();
+            Toast.makeText(view.getContext(), "channelId:" +channel.getChannelId(), Toast.LENGTH_SHORT).show();
             ChannelLinkParse channelLinkParse = new ChannelLinkParse(context, channel.getChannelId());
 
 

@@ -8,16 +8,16 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_out_top.xml"
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_fade_in.xml"
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
@@ -56,12 +56,12 @@
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_snackbar_out.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_snackbar_out.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
@@ -84,12 +84,12 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_fade_in.xml"
-    },
-    {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
         "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
@@ -104,12 +104,12 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
@@ -124,12 +124,12 @@
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_fab_out.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_fab_out.xml"
     },
     {
         "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
@@ -148,12 +148,12 @@
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
@@ -164,12 +164,12 @@
         "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_popup_enter.xml"
-    },
-    {
         "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
@@ -188,20 +188,20 @@
         "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_snackbar_in.xml"
-    },
-    {
-        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_snackbar_out.xml"
+        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
         "source": "/home/raj/Desktop/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_fab_in.xml"
     },
     {
-        "merged": "/home/raj/Desktop/Native/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/raj/Desktop/Native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/home/raj/AndroidStudioProjects/demo/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/raj/AndroidStudioProjects/demo/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/raj/AndroidStudioProjects/Native/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/raj/AndroidStudioProjects/Native/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_snackbar_in.xml"
     },
     {
         "merged": "/home/raj/Desktop/demo/build/intermediates/res/merged/debug/anim/design_fab_out.xml",

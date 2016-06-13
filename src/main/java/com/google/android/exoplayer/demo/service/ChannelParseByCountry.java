@@ -27,6 +27,8 @@ import org.json.JSONObject;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -46,10 +48,10 @@ public class ChannelParseByCountry {
     private Boolean success;
     private JSONObject jsonRootObject;
     private Context context;
-    private String root;
+    private String root = Environment.getExternalStorageDirectory().toString();;
     private int counter = 0;
-    private List<String> logoList = new ArrayList<>();
-    private List<String> channelNameList = new ArrayList<>();
+    private List<String> logoList;
+    private List<String> channelNameList;
     private List<Channel> channels;
     private List<Channel> channelsToStore = new ArrayList<>();
 
@@ -63,6 +65,8 @@ public class ChannelParseByCountry {
     public List<Channel> getData(String response) {
         try {
             channels = new ArrayList<>();
+            logoList = new ArrayList<>();
+            channelNameList = new ArrayList<>();
             jsonRootObject = new JSONObject(response);
             success = (boolean) jsonRootObject.get("success");
             if (success) {
@@ -81,7 +85,17 @@ public class ChannelParseByCountry {
                     ch.setChannelName(channelName);
                     channelsToStore.add(ch);
 
-                    new downloadLogo().execute("http://www.livestreamer.com/images/" + logo);
+                    Bitmap tempBmp = getLogoFromStorage(logo);
+                    if(tempBmp != null){
+                        Channel channel = new Channel();
+                        channel.setChannelName(channelNameList.get(counter));
+                        channel.setChannelBitMap(tempBmp);
+                        channels.add(channel);
+                        counter++;
+                        MainActivity.populateNewData(channels);
+                    } else {
+                        new downloadLogo().execute("http://www.livestreamer.com/images/" + logo);
+                    }
 
                 }
                 Map<String, List<Channel>> channelsByCountry = new HashMap<>();
@@ -94,15 +108,25 @@ public class ChannelParseByCountry {
         return channels;
     }
 
+    private Bitmap getLogoFromStorage(String logo) {
+        Bitmap scaledBmp = null;
+        try {
+            File file = new File(root + "/channel_logo/", logo);
+            Bitmap bmp = BitmapFactory.decodeStream(new FileInputStream(file));
+            scaledBmp = Bitmap.createScaledBitmap(bmp, 250, 150, false);
+        } catch (FileNotFoundException ex) {
+            Log.d("", "file not found in internal storage");
+            ex.printStackTrace();
+        }
+        return scaledBmp;
+    }
+
     private void createLogoDirectory() {
-        root = Environment.getExternalStorageDirectory().toString();
         File logoDirectory = new File(root + "/channel_logo");
         if (!logoDirectory.exists()) {
             logoDirectory.mkdirs();
         }
     }
-//            Bitmap bmp = BitmapFactory.decodeStream(url.openConnection().getInputStream());
-            //MediaStore.Images.Media.insertImage(context.getContentResolver(), file.getAbsolutePath(), file.getName(), file.getName());
 
     private class downloadLogo extends AsyncTask<String, Void, Bitmap> {
 
@@ -138,12 +162,6 @@ public class ChannelParseByCountry {
                 fOut.close();
 
                 Bitmap scaledBitmap = Bitmap.createScaledBitmap(bitMap, 250, 150, false);
-
-//                Bitmap output = Bitmap.createBitmap(50, 50, Bitmap.Config.ARGB_8888);
-//                Canvas canvas = new Canvas(output);
-//                Matrix m = new Matrix();
-//                m.setScale((float) 50 / bitMap.getWidth(), (float) 50 / bitMap.getHeight());
-//                canvas.drawBitmap(bitMap, m, new Paint());
 
                 Channel channel = new Channel();
                 channel.setChannelName(channelNameList.get(counter));
