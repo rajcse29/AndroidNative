@@ -98,7 +98,7 @@ public class StreamingPlayer extends Activity implements
             }
 
             Log.e("PATH", "Path = " + path);
-            // Create a new media player and set the listeners
+            // Creating a new media player and setting the listeners
             mMediaPlayer = new MediaPlayer();
             mMediaPlayer.setDataSource(path);
             mMediaPlayer.setDisplay(holder);

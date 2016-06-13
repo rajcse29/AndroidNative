@@ -61,7 +61,6 @@ public class MainActivity extends ActionBarActivity {
         for (Channel ch : channels) {
             firstTabFrag.getData().add(ch);
         }
-        Log.d("data change notify", "************");
         firstTabFrag.getRcAdapter().notifyDataSetChanged();
     }
 
